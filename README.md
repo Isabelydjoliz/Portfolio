@@ -1,6 +1,7 @@
 # Portfolio
 
-https://isabelydjoliz.github.io/Portfolio.index
+https://isabelydjoliz.github.io/Portfolio
+
 
 
 
